@@ -1,35 +1,35 @@
-html{
+html{   /*A la etiqueta de "html", aplicale un relleno de 15% a ambos lados utilizando "padding-left" y "padding-right" (ambos 15%, no 7,5% cada uno). Junto a eso añadele un color de fondo de "#7b9969" y texto de color blanco.*/
     padding-left: 15%;
     padding-right: 15%;
     background-color: #7b9969;
     color: white;
 }
-img{
+img{   /*A la etiqueta de "img" añadele un "width" de 100%.*/
     width:100%;
 }
-h1{
+h1{  /*A la etiqueta de "h1" añadele un "font-size" de 60px y haz que el texto este centrado.*/
     font-size: 60px;
     text-align: center;
 }
-p{
+p{  /*A la etiqueta de "p" añadele un "font-size" de 25px.*/
     font-size: 25px;
 }
-h2{
+h2{  /*A la etiqueta de "h2" añadele un "font-size de 40px.*/
     font-size: 40px;
 }
-strong{
+strong{  /*A la etiqueta de "strong" añadele el color negro al texto.*/
     color: black;
 }
-a{
+a{  /*A la etiqueta de "a" añadele un "text-decoration: none" para que el texto no este subrayado.*/
     text-decoration: none;
 }
-.titulo{
+.titulo{  /*A la clase de "titulo" añadele un "text-decoration: underline" para subrayar los titulos.*/
     text-decoration: underline;
 }
-.enlaces{
+.enlaces{  /*A la clase de "enlaces" añadele un color de fondo blanco y un color de texto negro.*/
     background-color: white;
     color: black;
 }
-.fecha{
+.fecha{  /*A la clase de "fecha" añadele como color de texto el rgb(112, 5, 5).*/
     color: rgb(112, 5, 5);
 }
