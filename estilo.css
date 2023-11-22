@@ -1,0 +1,35 @@
+html{
+    padding-left: 15%;
+    padding-right: 15%;
+    background-color: #7b9969;
+    color: white;
+}
+img{
+    width:100%;
+}
+h1{
+    font-size: 60px;
+    text-align: center;
+}
+p{
+    font-size: 25px;
+}
+h2{
+    font-size: 40px;
+}
+strong{
+    color: black;
+}
+a{
+    text-decoration: none;
+}
+.titulo{
+    text-decoration: underline;
+}
+.enlaces{
+    background-color: white;
+    color: black;
+}
+.fecha{
+    color: rgb(112, 5, 5);
+}
